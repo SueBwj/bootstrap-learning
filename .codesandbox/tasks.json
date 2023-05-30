@@ -13,6 +13,10 @@
       "name": "Run",
       "command": "Run",
       "runAtStart": true
+    },
+    "./index.html": {
+      "name": "./index.html",
+      "command": "./index.html"
     }
   }
 }
